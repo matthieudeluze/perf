@@ -1,0 +1,87 @@
+[submodule "Client/roman01la-grunt-load-perf"]
+	path = Client/roman01la-grunt-load-perf
+	url = https://github.com/roman01la/grunt-load-perf
+[submodule "Client/paulirish-automated-chrome-profiling"]
+	path = Client/paulirish-automated-chrome-profiling
+	url = https://github.com/paulirish/automated-chrome-profiling
+[submodule "Client/tkadlec-grunt-perfbudget"]
+	path = Client/tkadlec-grunt-perfbudget
+	url = https://github.com/tkadlec/grunt-perfbudget
+[submodule "CSS/johncashmore-grunt-combine-media-queries"]
+	path = CSS/johncashmore-grunt-combine-media-queries
+	url = https://github.com/johncashmore/grunt-combine-media-queries
+[submodule "CSS/filamentgroup-grunt-criticalcss"]
+	path = CSS/filamentgroup-grunt-criticalcss
+	url = https://github.com/filamentgroup/grunt-criticalcss
+[submodule "CSS/revizor"]
+	path = CSS/revizor
+	url = https://github.com/atrolov/grunt-revizor
+[submodule "CSS/ullmark-grunt-ucss"]
+	path = CSS/ullmark-grunt-ucss
+	url = https://github.com/ullmark/grunt-ucss
+[submodule "Client/addyosmani-psi"]
+	path = Client/addyosmani-psi
+	url = https://github.com/addyosmani/psi
+[submodule "Image/toddmotto-echo"]
+	path = Image/toddmotto-echo
+	url = https://github.com/toddmotto/echo
+[submodule "CSS/pocketjoso-penthouse"]
+	path = CSS/pocketjoso-penthouse
+	url = https://github.com/pocketjoso/penthouse
+[submodule "CSS/Penthouse"]
+	path = CSS/Penthouse
+	url = https://github.com/pocketjoso/penthouse
+[submodule "CSS/addyosmani-grunt-uncss"]
+	path = CSS/addyosmani-grunt-uncss
+	url = https://github.com/addyosmani/grunt-uncss
+[submodule "CSS/filamentgroup-criticalcss"]
+	path = CSS/filamentgroup-criticalcss
+	url = https://github.com/filamentgroup/criticalcss
+[submodule "CSS/begriffs-css-ratiocinator"]
+	path = CSS/begriffs-css-ratiocinator
+	url = https://github.com/begriffs/css-ratiocinator
+[submodule "CSS/operasoftware-ucss"]
+	path = CSS/operasoftware-ucss
+	url = https://github.com/operasoftware/ucss
+[submodule "CSS/Shrthnd"]
+	path = CSS/Shrthnd
+	url = https://github.com/frankmarineau/shorthand
+[submodule "Server/h5bp-Apache"]
+	path = Server/h5bp-Apache
+	url = https://github.com/h5bp/server-configs-apache
+[submodule "Javascript/gmetais-unusedjs"]
+	path = Javascript/gmetais-unusedjs
+	url = https://github.com/gmetais/unusedjs
+[submodule "Javascript/kupriyanenko-astrobench"]
+	path = Javascript/kupriyanenko-astrobench
+	url = https://github.com/kupriyanenko/astrobench
+[submodule "SQL/box-Anemometer"]
+	path = SQL/box-Anemometer
+	url = https://github.com/box/Anemometer
+[submodule "Javascript/Velocity.js"]
+	path = Javascript/Velocity.js
+	url = https://github.com/julianshapiro/velocity
+[submodule "Client/macbre-phantomas"]
+	path = Client/macbre-phantomas
+	url = https://github.com/macbre/phantomas
+[submodule "Client/axemclion-browser-perf"]
+	path = Client/axemclion-browser-perf
+	url = https://github.com/axemclion/browser-perf
+[submodule "Javascript/bestiejs-benchmark.js"]
+	path = Javascript/bestiejs-benchmark.js
+	url = https://github.com/bestiejs/benchmark.js
+[submodule "Image/lovell-sharp"]
+	path = Image/lovell-sharp
+	url = https://github.com/lovell/sharp
+[submodule "Image/BBC-News-Imager.js"]
+	path = Image/BBC-News-Imager.js
+	url = https://github.com/BBC-News/Imager.js
+[submodule "Image/marrone-grunt-tinypng"]
+	path = Image/marrone-grunt-tinypng
+	url = https://github.com/marrone/grunt-tinypng
+[submodule "Client/stefanjudis-grunt-phantomas"]
+	path = Client/stefanjudis-grunt-phantomas
+	url = https://github.com/stefanjudis/grunt-phantomas
+[submodule "Server/facebook-hhvm"]
+	path = Server/facebook-hhvm
+	url = https://github.com/facebook/hhvm
