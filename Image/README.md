@@ -13,4 +13,5 @@
 ## Responsive 
 * [BBC-News/Imager.js](https://github.com/BBC-News/Imager.js) - Responsive images while we wait for srcset to finish cooking
 
-
+## Compression
+* [Compressor.io](https://compressor.io/) - Compressor.io is a powerful online tool for reducing drastically the size of your images and photos whilst maintaining a high quality with almost no difference before and after compression.
